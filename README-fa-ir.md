@@ -25,7 +25,7 @@
 # Node Packaged Manuscript
 
 <!-- You can install this handbook using `npm`. Just run: -->
-میتونید این کتاب رو با استفاده از `npm` هم با این دستور نصب کنید:
+میتونید این کتابچه رو با استفاده از `npm` هم نصب کنید:
 
 ```
 $ npm install -g wtfjs
