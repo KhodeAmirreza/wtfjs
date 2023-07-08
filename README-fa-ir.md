@@ -31,7 +31,6 @@ $ npm install -g wtfjs
 
 # ترجمه ها
 
-<!-- # Currently, there are these translations of **wtfjs**: -->
 فعلا این ترجمه ها از **wtfjs** موجود هست:
 
 - [English (نسخه‌ی اصلی)](./README.md)
@@ -44,8 +43,7 @@ $ npm install -g wtfjs
 - [Russian](https://habr.com/ru/company/mailru/blog/335292/) (on Habr.com)
 - [한국어](./README-kr.md)
 
-<!-- [**Help translating to your language**][tr-request] -->
-[**مشارکت برای ترجمه کردن**][tr-request]
+[**مشارکت برای ترجمه به زبون خودتون**][tr-request]
 
 [tr-request]: https://github.com/denysdovhan/wtfjs/blob/master/CONTRIBUTING.md#translations
 
