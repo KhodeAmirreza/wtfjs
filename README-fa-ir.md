@@ -17,7 +17,7 @@
 
 [![dotJS 2012 - Brian Leroux - WTFJS](https://img.youtube.com/vi/et8xNAc2ic8/0.jpg)](https://www.youtube.com/watch?v=et8xNAc2ic8)
 
-# Node Packaged Manuscript
+# پکیج نود جی‌اس کتاب:
 
 میتونید این کتابچه رو با `npm` نصب کنید. کافیه بزنید:
 
@@ -25,18 +25,16 @@
 $ npm install -g wtfjs
 ```
 
-<!-- This will open the manual in your selected `$PAGER`. Otherwise, you may continue reading on here. -->
 حالا باید بتونید `wtfjs` رو توی ترمینال اجرا کنید. این دستور کتابچه رو داخل `$PAGER` انتخاب شده باز میکنه. در غیر این صورت، میتونید خوندن رو اینجا ادامه بدید.
 
-<!-- The source is available here: <https://github.com/denysdovhan/wtfjs> -->
 منبع اصلی اینجا در دسترس هست: <https://github.com/denysdovhan/wtfjs>
 
-<!-- # Translations -->
 # ترجمه ها
 
 <!-- # Currently, there are these translations of **wtfjs**: -->
-در زمان حال، این ترجمه ها از **wtfjs** موجود هست:
+فعلا این ترجمه ها از **wtfjs** موجود هست:
 
+- [English (نسخه‌ی اصلی)](./README.md)
 - [中文](./README-zh-cn.md)
 - [हिंदी](./README-hi.md)
 - [Français](./README-fr-fr.md)
