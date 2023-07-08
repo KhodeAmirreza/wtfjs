@@ -132,7 +132,7 @@ $ npm install -g wtfjs
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- prettier-ignore-end -->
 
-# 💪🏻 Motivation (انگیزه)
+# 💪🏻 Motivation
 
 <!-- > Just for fun -->
 > فقط برای سرگرمی
@@ -155,14 +155,14 @@ $ npm install -g wtfjs
 <!-- > **⚠️ Note:** If you enjoy reading this document, please, [consider supporting the author of this collection](#-supporting). -->
 > **⚠️ نکته:** اگر از خوندن این منبع لذت میبرید، لطفا [حمایت از نویسنده‌ی این مطالب رو در نظر بگیرید](#-supporting)
 
-# ✍🏻 Notation (نشانه گذاری)
+# ✍🏻 Notation
 
 عبارت < توی کامنت ها، به معنی نتیجه ی لاگ توی کنسول مربوط به اون خط هست یا نتیجه‌ی هر خروجی دیگه‌ای. برای مثال:
 ```js
 console.log("hello, world!"); // > hello, world!
 ```
 
-# 👀 Examples (مثال ها)
+# 👀 Examples
 
 ## `[]` is equal `![]`
 
