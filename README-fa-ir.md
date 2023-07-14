@@ -138,11 +138,10 @@ $ npm install -g wtfjs
 >
 > &mdash; _[**“فقط برای سرگرمی: داستان یک انقلاب تصادفی”**](https://en.wikipedia.org/wiki/Just_for_Fun)، Linus Torvalds_
 
-<!-- The primary goal of this list is to collect some crazy examples and explain how they work, if possible. Just because it's fun to learn something that we didn't know before. -->
-هدف اولیه‌ی این لیست، جمع کردن یکسری مثال های عجیب و توضیح دادن اینکه چطور کار میکنن هست. صرفا چون جالبه یاد گرفتن چیزی که قبلا نمیدونستیمش.
 
-<!-- If you are a beginner, you can use these notes to get a deeper dive into JavaScript. I hope these notes will motivate you to spend more time reading the specification. -->
-اگر تازه کار هستید، میتونید از این مطالب استفاده کنید تا توی جاوا اسکریپت عمیق تر بشید. امیدوارم این قسمت باعث شده باشه انگیزه‌ی بیشتری داشته باشید برای خوندن مطالب.
+ در صورت امکان هدف اولیه‌ی این لیست، جمع کردن یکسری مثال های عجیب و توضیح دادن اینکه چطور کار میکنن هست. صرفا چون جالبه یاد گرفتن چیزی که قبلا نمیدونستیمش.
+
+اگر تازه کار هستید، میتونید از این مطالب استفاده کنید تا توی جاوا اسکریپت عمیق تر بشید. امیدوارم این قسمت باعث بشه انگیزه‌ی بیشتری داشته باشید برای صرف کردن وقت بیشتری روی خوندن داکیومنت ها.
 
 <!-- If you are a professional developer, you can consider these examples as a great reference for all of the quirks and unexpected edges of our beloved JavaScript. -->
 اگر برنامه‌نویس سنیوری هستید، میتونید این مثال هارو به عنوان یک منبع عالی برای همه‌ی قسمت های عجیب و غریب جاوا اسکریپت محبوبمون در نظر بگیرید.
