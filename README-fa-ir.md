@@ -136,7 +136,7 @@ $ npm install -g wtfjs
 
 > فقط برای سرگرمی
 >
-> &mdash; _[**“فقط برای سرگرمی: داستان یک انقلاب تصادفی”**](https://en.wikipedia.org/wiki/Just_for_Fun), Linus Torvalds_
+> &mdash; _[**“فقط برای سرگرمی: داستان یک انقلاب تصادفی”**](https://en.wikipedia.org/wiki/Just_for_Fun)، Linus Torvalds_
 
 <!-- The primary goal of this list is to collect some crazy examples and explain how they work, if possible. Just because it's fun to learn something that we didn't know before. -->
 هدف اولیه‌ی این لیست، جمع کردن یکسری مثال های عجیب و توضیح دادن اینکه چطور کار میکنن هست. صرفا چون جالبه یاد گرفتن چیزی که قبلا نمیدونستیمش.
