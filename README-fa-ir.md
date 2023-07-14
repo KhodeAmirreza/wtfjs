@@ -43,7 +43,7 @@ $ npm install -g wtfjs
 - [Russian](https://habr.com/ru/company/mailru/blog/335292/) (on Habr.com)
 - [한국어](./README-kr.md)
 
-[**مشارکت برای ترجمه به زبون خودتون**][tr-request]
+[**مشارکت برای ترجمه**][tr-request]
 
 [tr-request]: https://github.com/denysdovhan/wtfjs/blob/master/CONTRIBUTING.md#translations
 
