@@ -169,6 +169,7 @@ console.log("hello, world!"); // > hello, world!
 ```js
 // Assigning a function to foo constant
 const foo = function() {};
+```
 
 # 👀 Examples
 
