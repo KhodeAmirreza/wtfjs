@@ -158,7 +158,7 @@ $ npm install -g wtfjs
 1 + 1; // -> 2
 ```
 
-منظور از **`// >`** نتیجه‌ی `console.log` یا هر خروجی ای هست. برای مثال:
+منظور از **`// >`** نتیجه‌ی `console.log` یا هر خروجی دیگه‌ای هست. برای مثال:
 ```js
 console.log("hello, world!"); // > hello, world!
 ```
