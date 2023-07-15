@@ -164,7 +164,7 @@ console.log("hello, world!"); // > hello, world!
 ```
 
 <!-- **`//`** is just a comment used for explanations. Example: -->
-**`//`** هم کامنت هست که برای توضیح دادن استفاده میشه. مثل:
+**`//`** کامنت هست که برای توضیحات بیشتر استفاده میشه. مثل:
 
 ```js
 // Assigning a function to foo constant
