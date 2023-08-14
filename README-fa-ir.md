@@ -1300,7 +1300,7 @@ Object.prototype.toString.call(null);
 
 ## Patching numbers
 
-You can add your own methods to wrapper objects like `Number` or `String`.
+شما می تونید متد های شخصی سازی شده خودتون رو به wrapper ه ابجکت مثل Number و String اضافه کنید.
 
 ```js
 Number.prototype.isOne = function() {
@@ -1313,9 +1313,9 @@ Number.prototype.isOne = function() {
 (7).isOne(); // -> false
 ```
 
-### 💡 Explanation:
+### 💡 توضیح:
 
-Obviously, you can extend the `Number` object like any other object in JavaScript. However, it's not recommended if the behavior of the defined method is not a part of the specification. Here is the list of `Number`'s properties:
+در واقع شما میتونید ابجکت خودتون رو از ابجکت Number گسترش بدید و ارث بری بکنید، البته اگه رفتار متد شما بخشی از Spec نیست این توصیه نمیشه.
 
 - [**20.1** Number Objects](https://www.ecma-international.org/ecma-262/#sec-number-objects)
 
@@ -1326,9 +1326,9 @@ Obviously, you can extend the `Number` object like any other object in JavaScrip
 3 > 2 > 1; // -> false
 ```
 
-### 💡 Explanation:
+### 💡 توضیح:
 
-Why does this work that way? Well, the problem is in the first part of an expression. Here's how it works:
+چرا اینطوری کار کرد؟خب، موضوع این هست که مشکل اصلی به قسمت اول عبارت زیر بر میگرده، اینجا نشون داده شده چطور کار میکنه:
 
 ```js
 1 < 2 < 3; // 1 < 2 -> true
@@ -1339,14 +1339,13 @@ true < 3; // true -> 1
 true > 1; // true -> 1
 1 > 1; // -> false
 ```
-
-We can fix this with _Greater than or equal operator (`>=`)_:
+ بزرگتر مساوی
+این  رو میتونیم با استفاده از _بزرگتر مساوی(`>=`)_: حل کنیم
 
 ```js
 3 > 2 >= 1; // true
 ```
-
-Read more about Relational operators in the specification:
+درباره عملگر های رابطه ای در Spec بیشتر بخوانید:
 
 - [**12.10** Relational Operators](https://www.ecma-international.org/ecma-262/#sec-relational-operators)
 
